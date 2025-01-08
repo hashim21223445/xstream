@@ -20,7 +20,7 @@
     "baconjs": "0.7.x",
     "benchmark": "github:bestiejs/benchmark.js#master",
     "highland": "2.10.x",
-    "kefir": "3.6.x",
+    "kefir": "3.8.8",
     "lodash": "4.17.x",
     "most": "1.1.x",
     "rx": "4.1.x",
