@@ -61,7 +61,7 @@
     "conventional-changelog-cli": "1.2.x",
     "cz-conventional-changelog": "1.2.x",
     "es6-promise": "4.0.5",
-    "google-closure-compiler-js": "^20170910.0.0",
+    "google-closure-compiler-js": "^20200719.0.0",
     "markdown-doctest": "0.9.1",
     "markdox": "0.1.10",
     "mkdirp": "0.5.1",
