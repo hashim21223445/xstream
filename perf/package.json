@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@reactivex/rxjs": "5.0.x",
-    "baconjs": "0.7.x",
+    "baconjs": "3.0.23",
     "benchmark": "github:bestiejs/benchmark.js#master",
     "highland": "2.10.x",
     "kefir": "3.6.x",
