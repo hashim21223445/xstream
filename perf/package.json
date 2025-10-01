@@ -19,7 +19,7 @@
     "@reactivex/rxjs": "5.0.x",
     "baconjs": "3.0.23",
     "benchmark": "github:bestiejs/benchmark.js#master",
-    "highland": "2.10.x",
+    "highland": "2.13.5",
     "kefir": "3.6.x",
     "lodash": "4.17.x",
     "most": "1.1.x",
